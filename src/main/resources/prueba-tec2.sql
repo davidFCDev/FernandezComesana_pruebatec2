@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 19-01-2024 a las 14:07:24
+-- Tiempo de generación: 19-01-2024 a las 21:56:06
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -64,14 +64,14 @@ CREATE TABLE `turn` (
 
 INSERT INTO `turn` (`ID`, `DESCRIPTION`, `TURNDATE`, `TURNSTATE`, `citizen_dni`) VALUES
 (1, 'Renovacion del DNI', '2024-02-01', 0, '51234568A'),
-(2, 'Expedicion de certificados', '2024-02-01', 0, '53194686B'),
+(2, 'Expedicion de certificados', '2024-02-01', 1, '53194686B'),
 (3, 'Tramitacion de licencias', '2024-02-01', 0, '53194686x'),
 (4, 'Tramites administrativos', '2024-02-01', 0, '54123251B'),
 (5, 'Tramites administrativos', '2024-02-01', 0, '54554784F'),
 (6, 'Registro en el censo', '2024-02-02', 0, '51234568A'),
-(7, 'Renovacion del DNI', '2024-02-02', 0, '53194686B'),
+(7, 'Renovacion del DNI', '2024-02-02', 1, '53194686B'),
 (8, 'Tramitacion de licencias', '2024-02-02', 0, '53194686x'),
-(9, 'Registro en el censo', '2024-02-02', 0, '54123251B'),
+(9, 'Registro en el censo', '2024-02-02', 1, '54123251B'),
 (10, 'Expedicion de certificados', '2024-02-02', 0, '54554784F');
 
 --

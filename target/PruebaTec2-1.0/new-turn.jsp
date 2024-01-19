@@ -5,11 +5,11 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
-    <%@include file="header.jsp" %>
+    <%@include file="includes/header.jsp" %>
     <body class="sb-nav-fixed">
-        <%@include file="topbar.jsp" %>
+        <%@include file="includes/topbar.jsp" %>
         <div id="layoutSidenav">
-            <%@include file="sidebar.jsp" %>
+            <%@include file="includes/sidebar.jsp" %>
             <div id="layoutSidenav_content">
                 <main class="d-flex align-items-center">
                     <div class="container">
@@ -54,6 +54,6 @@
                 </main>
             </div>
         </div>
-        <%@include file="scripts.jsp" %>
+        <%@include file="includes/scripts.jsp" %>
     </body>
 </html>

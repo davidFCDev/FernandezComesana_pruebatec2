@@ -5,11 +5,11 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
-    <%@include file="header.jsp" %>
+    <%@include file="includes/header.jsp" %>
     <body class="sb-nav-fixed">
-        <%@include file="topbar.jsp" %>
+        <%@include file="includes/topbar.jsp" %>
         <div id="layoutSidenav">
-            <%@include file="sidebar.jsp" %>
+            <%@include file="includes/sidebar.jsp" %>
             <div id="layoutSidenav_content">
                 <div class="container mt-4">
                     <div class="row justify-content-center">
@@ -28,7 +28,7 @@
             </div>
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
             <script src="js/scripts.js"></script>
-            <%@include file="scripts.jsp" %>
+            <%@include file="includes/scripts.jsp" %>
     </body>
 </html>
 

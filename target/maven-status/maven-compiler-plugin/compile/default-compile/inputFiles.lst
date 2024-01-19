@@ -1,9 +1,9 @@
 C:\Users\34664\MisProyectos\NetBeansProjects\PruebaTec2\src\main\java\com\softtek\pruebatec2\resources\JavaEE8Resource.java
 C:\Users\34664\MisProyectos\NetBeansProjects\PruebaTec2\src\main\java\com\softtek\pruebatec2\servlets\EditTurnSv.java
-C:\Users\34664\MisProyectos\NetBeansProjects\PruebaTec2\src\main\java\com\softtek\pruebatec2\logic\Ciudadano.java
 C:\Users\34664\MisProyectos\NetBeansProjects\PruebaTec2\src\main\java\com\softtek\pruebatec2\servlets\TurnSv.java
 C:\Users\34664\MisProyectos\NetBeansProjects\PruebaTec2\src\main\java\com\softtek\pruebatec2\persistence\TurnJpaController.java
 C:\Users\34664\MisProyectos\NetBeansProjects\PruebaTec2\src\main\java\com\softtek\pruebatec2\exceptions\CitizenNotFoundException.java
+C:\Users\34664\MisProyectos\NetBeansProjects\PruebaTec2\src\main\java\com\softtek\pruebatec2\exceptions\DuplicatedDniException.java
 C:\Users\34664\MisProyectos\NetBeansProjects\PruebaTec2\src\main\java\com\softtek\pruebatec2\persistence\exceptions\NonexistentEntityException.java
 C:\Users\34664\MisProyectos\NetBeansProjects\PruebaTec2\src\main\java\com\softtek\pruebatec2\JAXRSConfiguration.java
 C:\Users\34664\MisProyectos\NetBeansProjects\PruebaTec2\src\main\java\com\softtek\pruebatec2\logic\Citizen.java
