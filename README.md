@@ -65,4 +65,4 @@ Segunda prueba técnica del Bootcamp de Java con diseño WEB e implementación C
 ## Supuestos
 - No se especifica la visión general del proyecto. Lo he enfocado desde el punto de vista de un gestor de la aplicación, de tal forma que el gestor puede crear tanto ciudadanos como turnos.
 - Se supone que el DNI debe ser único e irrepetible, por lo tanto el ciudadano utiliza el DNI como ID y Key.
-- Los turnos se crean en false ("en espera") por defecto, se pueden modificar después.
+- Los turnos se crean en estado de "en espera" ("false") por defecto, se pueden modificar después.
