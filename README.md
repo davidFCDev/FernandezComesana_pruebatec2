@@ -25,6 +25,7 @@ Segunda prueba técnica del Bootcamp de Java con diseño WEB e implementación C
     * DB: "prueba-tec2"
     * Usuario: "root"
     * Contraseña: ""
+    * Fechas de prueba: 01/02/2024 | 02/02/2024
 - Apache Tomcat
     * Usuario: "admin"
     * Contraseña: "123"
